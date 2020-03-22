@@ -1,0 +1,73 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,                                                                                               
+// Version 2.0, in this case for Zeppelin: Apache Ignite interpreter                                                                                  
+// ------------------------------------------------------------------
+
+Zeppelin: Apache Ignite interpreter
+Copyright 2013-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software, H2 Database Engine, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Commons Codec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Logging, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, JSR107 API and SPI, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Log4j, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, ignite-core, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, ignite-indexing, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, ignite-scalar, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, ignite-spring, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Lucene Common Analyzers, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Lucene Core, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Lucene Queries, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Lucene QueryParsers, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Lucene Sandbox, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Zeppelin: Interpreter API, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, ignite-shmem, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, IntelliJ IDEA Annotations, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Library, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, scala-parser-combinators, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, scala-xml, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, SLF4J API Module, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J LOG4J-12 Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, Spring AOP, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Beans, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Context, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Core, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Expression Language (SpEL), developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring JDBC, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Transaction, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).

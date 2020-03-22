@@ -1,0 +1,81 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,                                                                                               
+// Version 2.0, in this case for Zeppelin: Apache Geode interpreter                                                                                  
+// ------------------------------------------------------------------
+
+Zeppelin: Apache Geode interpreter
+Copyright 2013-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software, AntLR Parser Generator, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Jackson-annotations, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, Jackson-core, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, jackson-databind, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, Findbugs Annotations under Apache License, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Commons BeanUtils, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Commons Collections, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons IO, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Lang, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Logging, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, fastutil, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, javax.resource API, developed by                                                                                                   
+GlassFish Community (https://glassfish.java.net).
+This product includes software, javax.transaction API, developed by                                                                                                   
+GlassFish Community (https://glassfish.java.net).
+This product includes software, Apache Log4j, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, Java Native Access, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, JOpt Simple, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Commons Exec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache Geode, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Geode, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Geode, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Log4j API, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, Apache Log4j Core, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, Apache Shiro :: Cache, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Configuration :: Core, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Configuration :: OGDL, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Core, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Cryptography :: Ciphers, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Cryptography :: Core, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Cryptography :: Hashing, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Event, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Shiro :: Lang, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Zeppelin: Interpreter API, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, JGroups, developed by                                                                                                   
+JBoss, a division of Red Hat (http://www.jboss.org).
+This product includes software, SLF4J API Module, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J LOG4J-12 Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).

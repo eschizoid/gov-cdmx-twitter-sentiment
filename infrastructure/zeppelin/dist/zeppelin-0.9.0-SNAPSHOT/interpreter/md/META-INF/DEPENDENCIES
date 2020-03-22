@@ -1,0 +1,55 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Zeppelin: Markdown interpreter
+
+
+From: 'an unknown organization'
+  - markdown4j (http://github.com/jdcasey/commonjava/markdown4j) org.commonjava.googlecode.markdown4j:markdown4j:jar:2.2-cj-1.0
+    License: APLv2.0 
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.17
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.0.3
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Analysis (http://asm.objectweb.org/asm-analysis/) org.ow2.asm:asm-analysis:jar:5.0.3
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Tree (http://asm.objectweb.org/asm-tree/) org.ow2.asm:asm-tree:jar:5.0.3
+    License: BSD  (http://asm.objectweb.org/license.html)
+  - ASM Util (http://asm.objectweb.org/asm-util/) org.ow2.asm:asm-util:jar:5.0.3
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'org.parboiled' (http://parboiled.org)
+  - parboiled-core (http://parboiled.org) org.parboiled:parboiled-core:jar:1.1.7
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - parboiled-java (http://parboiled.org) org.parboiled:parboiled-java:jar:1.1.7
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'org.pegdown' (http://pegdown.org)
+  - pegdown (http://pegdown.org) org.pegdown:pegdown:jar:1.6.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.10
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J LOG4J-12 Binding (http://www.slf4j.org) org.slf4j:slf4j-log4j12:jar:1.7.10
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Zeppelin: Interpreter API (https://zeppelin.apache.org/zeppelin-interpreter-api) org.apache.zeppelin:zeppelin-interpreter-api:jar:0.9.0-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

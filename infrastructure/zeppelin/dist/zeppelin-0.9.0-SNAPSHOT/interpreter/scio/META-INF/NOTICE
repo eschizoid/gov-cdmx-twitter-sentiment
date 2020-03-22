@@ -1,0 +1,213 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,                                                                                               
+// Version 2.0, in this case for Zeppelin: Scio                                                                                  
+// ------------------------------------------------------------------
+
+Zeppelin: Scio
+Copyright 2013-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software, shapeless-core, developed by                                                                                                   
+com.chuusai ($project.organization.url).
+This product includes software, Kryo Shaded, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, MinLog, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Jackson-annotations, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, Jackson-core, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, jackson-databind, developed by                                                                                                   
+FasterXML (http://fasterxml.com/).
+This product includes software, core, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, JTransforms, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Google APIs Client Library for Java, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Jackson 2 extensions to the Google APIs Client Library for Java, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Java 6 (and higher) Extensions to the Google API Client Library for Java., developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, GoogleAPIs Core, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, GRPC Pubsub v1 Client, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, BigQuery API v2-rev317-1.22.0, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Google Cloud Debugger API v2-rev8-1.22.0, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Google Dataflow API v1b3-rev36-1.22.0, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, google-api-services-datastore-protobuf, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Google Cloud Pub/Sub API v1-rev10-1.22.0, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Cloud Storage JSON API v1-rev71-1.22.0, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Google Auth Library for Java - Credentials, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Google Auth Library for Java - OAuth2 HTTP, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, gcsio.jar, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, util, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, com.google.cloud.bigtable:bigtable-protos, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Google Cloud Dataflow Java SDK - All, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, com.google.cloud.datastore:datastore-v1-proto-client, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, com.google.cloud.datastore:datastore-v1-protos, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, FindBugs-jsr305, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Guava: Google Core Libraries for Java, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Google HTTP Client Library for Java, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Jackson extensions to the Google HTTP Client Library for Java., developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Jackson 2 extensions to the Google HTTP Client Library for Java., developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Protocol Buffer extensions to the Google HTTP Client Library for Java., developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Google OAuth Client Library for Java, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Java 6 (and higher) extensions to the Google OAuth Client Library for Java., developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Protocol Buffer Java API, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, Protocol Buffer JavaNano API, developed by                                                                                                   
+Google (http://www.google.com/).
+This product includes software, JavaEWAH, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, core, developed by                                                                                                   
+com.nrinaudo (https://nrinaudo.github.io/kantan.codecs).
+This product includes software, core, developed by                                                                                                   
+com.nrinaudo (https://nrinaudo.github.io/kantan.csv/).
+This product includes software, scio-bigquery, developed by                                                                                                   
+com.spotify ($project.organization.url).
+This product includes software, scio-core, developed by                                                                                                   
+com.spotify ($project.organization.url).
+This product includes software, scio-extra, developed by                                                                                                   
+com.spotify ($project.organization.url).
+This product includes software, scio-repl, developed by                                                                                                   
+com.spotify ($project.organization.url).
+This product includes software, OkHttp, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Okio, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, ParaNamer Core, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, algebird-core, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, chill-java, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, chill-protobuf, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, chill, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, Commons Codec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons IO, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Logging, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, java-lsh, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, java-string-similarity, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-all, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-auth, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-core, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-netty, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-okhttp, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-protobuf, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-protobuf-nano, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, io.grpc:grpc-stub, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Netty/Buffer, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Codec, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Codec/HTTP, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Codec/HTTP2, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Common, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Handler, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Resolver, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, Netty/Transport, developed by                                                                                                   
+The Netty Project (http://netty.io/).
+This product includes software, JLine, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Joda-Time, developed by                                                                                                   
+Joda.org (http://www.joda.org).
+This product includes software, Apache Log4j, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, opencsv, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Fortran to Java ARPACK, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Avro, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache Commons Compress, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Math, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache HttpClient, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache HttpCore, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Zeppelin: Interpreter API, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Jackson, developed by                                                                                                   
+FasterXML (http://fasterxml.com).
+This product includes software, Data Mapper for Jackson, developed by                                                                                                   
+FasterXML (http://fasterxml.com).
+This product includes software, Joda-Convert, developed by                                                                                                   
+Joda.org (http://www.joda.org).
+This product includes software, Objenesis, developed by                                                                                                   
+Joe Walnes, Henri Tremblay, Leonardo Mesquita ($project.organization.url).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Library, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, scala-parser-combinators, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, scala-xml, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, paradise, developed by                                                                                                   
+org.scalamacros ($project.organization.url).
+This product includes software, breeze-macros, developed by                                                                                                   
+org.scalanlp ($project.organization.url).
+This product includes software, breeze, developed by                                                                                                   
+org.scalanlp ($project.organization.url).
+This product includes software, SLF4J API Module, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J LOG4J-12 Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J Simple Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, spire-macros, developed by                                                                                                   
+org.spire-math (http://spire-math.org).
+This product includes software, spire, developed by                                                                                                   
+org.spire-math (http://spire-math.org).
+This product includes software, snappy-java, developed by                                                                                                   
+xerial.org ($project.organization.url).

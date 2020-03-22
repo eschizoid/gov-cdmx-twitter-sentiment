@@ -1,0 +1,51 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,                                                                                               
+// Version 2.0, in this case for Zeppelin: Livy interpreter                                                                                  
+// ------------------------------------------------------------------
+
+Zeppelin: Livy interpreter
+Copyright 2013-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software, Gson, developed by                                                                                                   
+Google, Inc. (http://www.google.com).
+This product includes software, Commons Codec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Lang, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Logging, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache Log4j, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, Apache Commons Exec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache HttpClient, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache HttpCore, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Zeppelin: Interpreter API, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, SLF4J API Module, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J LOG4J-12 Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, Spring AOP, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Beans, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Context, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Core, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Expression Language (SpEL), developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, Spring Web, developed by                                                                                                   
+Spring IO (http://projects.spring.io/spring-framework).
+This product includes software, spring-security-core, developed by                                                                                                   
+spring.io (http://spring.io/).
+This product includes software, Spring Security Kerberos Client, developed by                                                                                                   
+SpringSource (http://projects.spring.io/spring-security-kerberos/).
+This product includes software, Spring Security Kerberos Core, developed by                                                                                                   
+SpringSource (http://projects.spring.io/spring-security-kerberos/).

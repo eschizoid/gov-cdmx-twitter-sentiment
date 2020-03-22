@@ -1,0 +1,175 @@
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,                                                                                               
+// Version 2.0, in this case for Zeppelin: Flink                                                                                  
+// ------------------------------------------------------------------
+
+Zeppelin: Flink
+Copyright 2013-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software, Kryo, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, MinLog, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, scopt, developed by                                                                                                   
+com.github.scopt (https://github.com/scopt/scopt).
+This product includes software, FindBugs-jsr305, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Gson, developed by                                                                                                   
+Google, Inc. (http://www.google.com).
+This product includes software, Guava: Google Core Libraries for Java, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, java-xmlbuilder, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, JSch, developed by                                                                                                   
+jcraft (http://www.jcraft.com/jsch).
+This product includes software, jersey-client, developed by                                                                                                   
+Oracle Corporation (http://www.oracle.com/).
+This product includes software, ParaNamer Core, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, chill-java, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, chill, developed by                                                                                                   
+com.twitter ($project.organization.url).
+This product includes software, config, developed by                                                                                                   
+com.typesafe ($project.organization.url).
+This product includes software, ssl-config-core, developed by                                                                                                   
+com.typesafe ($project.organization.url).
+This product includes software, akka-actor, developed by                                                                                                   
+Lightbend Inc. (http://www.lightbend.com).
+This product includes software, akka-camel, developed by                                                                                                   
+Lightbend Inc. (http://www.lightbend.com).
+This product includes software, akka-protobuf, developed by                                                                                                   
+Lightbend Inc. (http://www.lightbend.com).
+This product includes software, akka-slf4j, developed by                                                                                                   
+Lightbend Inc. (http://www.lightbend.com).
+This product includes software, akka-stream, developed by                                                                                                   
+Lightbend Inc. (http://www.lightbend.com).
+This product includes software, Apache Commons BeanUtils, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Apache Commons CLI, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Codec, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache Commons Collections, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Configuration, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Daemon, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Digester, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, EL, developed by                                                                                                   
+The Apache Software Foundation (http://jakarta.apache.org).
+This product includes software, Commons IO, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Lang, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Logging, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Net, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, JavaBeans Activation Framework (JAF), developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, servlet-api, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, JAXB API bundle for GlassFish V3, developed by                                                                                                   
+Oracle Corporation (http://www.oracle.com/).
+This product includes software, Streaming API for XML, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Apache Log4j, developed by                                                                                                   
+Apache Software Foundation (http://www.apache.org).
+This product includes software, Apache Avro, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Camel :: Core, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Compress, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Apache Commons Lang, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, Commons Math, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, flink-annotations, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-clients, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-core, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-hadoop-fs, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-java, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-metrics-core, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-optimizer, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-queryable-state-client-java, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-runtime, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-scala-shell, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-scala, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-asm-5, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-asm-6, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-guava-18, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-hadoop2, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-jackson-2, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-shaded-netty-4, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-streaming-java, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-streaming-scala, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-table, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, flink-yarn, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, force-shading, developed by                                                                                                   
+The Apache Software Foundation (https://www.apache.org/).
+This product includes software, Zeppelin: Interpreter API, developed by                                                                                                   
+The Apache Software Foundation (http://www.apache.org/).
+This product includes software, zookeeper, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, grizzled-slf4j, developed by                                                                                                   
+org.clapper (http://software.clapper.org/grizzled-slf4j/).
+This product includes software, Jackson, developed by                                                                                                   
+FasterXML (http://fasterxml.com).
+This product includes software, Data Mapper for Jackson, developed by                                                                                                   
+FasterXML (http://fasterxml.com).
+This product includes software, Javassist, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Objenesis, developed by                                                                                                   
+Joe Walnes, Henri Tremblay, Leonardo Mesquita ($project.organization.url).
+This product includes software, reactive-streams, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Library, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, Scala Compiler, developed by                                                                                                   
+LAMP/EPFL (http://lamp.epfl.ch/).
+This product includes software, scala-java8-compat, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, scala-parser-combinators, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, scala-xml, developed by                                                                                                   
+org.scala-lang.modules (http://www.scala-lang.org/).
+This product includes software, SLF4J API Module, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, SLF4J LOG4J-12 Binding, developed by                                                                                                   
+QOS.ch (http://www.qos.ch).
+This product includes software, XZ for Java, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
+This product includes software, snappy-java, developed by                                                                                                   
+xerial.org ($project.organization.url).
+This product includes software, xmlenc Library, developed by                                                                                                   
+$project.organization.name ($project.organization.url).
