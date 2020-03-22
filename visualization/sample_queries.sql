@@ -1,18 +1,3 @@
-# Twitter Sentiment Analysis - Gov CDMX
-
-## Architecture
-Twitter -> App Engine Flex -> PubSub -> DataFlow -> BigQuery -> NLP API
-
-## Prerequisites
- - A PubSube topic
- - A BigQuery Dataset
- - A GCS bucket called `gov-cdmx-twitter-sentiment`
-
-## Deployment
-`gcloud builds submit --config=cloudbuild.yaml .`
-
-## Sample Query
-```
 WITH data AS (
     SELECT timestamp                                                                             AS tweet_timestamp,
            JSON_EXTRACT_ARRAY(SAFE_CONVERT_BYTES_TO_STRING(FROM_BASE64(payload)), "$[messages]") AS tweets
@@ -25,4 +10,3 @@ SELECT tweet_timestamp,
        JSON_EXTRACT(tweet_text, "$.data.user.followers_count")                             AS user_followers_count
 FROM data
          CROSS JOIN UNNEST(tweets) as tweet_text
-```

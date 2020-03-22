@@ -1,0 +1,12 @@
+steps:
+  - name: gcr.io/cloud-builders/git
+    args: ['clone', 'https://github.com/eschizoid/gov-cdmx-twitter-sentiment.git']
+
+  - name: gcr.io/cloud-builders/gcloud
+    args: ['app', 'deploy', '--version=tweets']
+    dir: 'twitter-to-pubsub'
+
+  - name: gcr.io/cloud-builders/gradle
+    args: ['build', 'run']
+
+timeout: 1800s

@@ -2,5 +2,3 @@ rootProject.name = "gov-cdmx-twitter-sentiment"
 
 include "streaming"
 include "transformation"
-include "aggregation"
-include "visualization"
