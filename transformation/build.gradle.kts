@@ -1,7 +1,7 @@
 import com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar
 
 group = "gov.cdmx.twitter.sentiment"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 tasks {
     named<ShadowJar>("shadowJar") {
