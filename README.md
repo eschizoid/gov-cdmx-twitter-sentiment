@@ -23,15 +23,15 @@ WITH
     `gov_cdmx_twitter_sentiment.tweets`)
 SELECT
   tweet_timestamp,
-  REGEXP_REPLACE(IFNULL(JSON_EXTRACT(tweet_text,
+  REGEXP_REPLACE(IFNULL(JSON_EXTRACT_SCALAR(tweet_text,
         "$.data.retweeted_status.extended_tweet.full_text"),
-      JSON_EXTRACT(tweet_text,
+      JSON_EXTRACT_SCALAR(tweet_text,
         "$.data.text")), r'\\n|\\t|\\"', '') AS user_text,
-  JSON_EXTRACT(tweet_text,
+  JSON_EXTRACT_SCALAR(tweet_text,
     "$.data.user.screen_name") AS user_screen_nam,
-  JSON_EXTRACT(tweet_text,
+  JSON_EXTRACT_SCALAR(tweet_text,
     "$.data.user.location") AS user_location,
-  JSON_EXTRACT(tweet_text,
+  JSON_EXTRACT_SCALAR(tweet_text,
     "$.data.user.followers_count") AS user_followers_count
 FROM
   DATA
