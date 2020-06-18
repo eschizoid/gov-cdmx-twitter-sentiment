@@ -29,7 +29,7 @@ class StdOutListener(StreamListener):
         self.count += 1
         if self.count > self.total_tweets:
             return False
-        if (self.count % 100) == 0:
+        if (self.count % 50) == 0:
             print("count is: %s at %s" % (self.count, datetime.datetime.now()))
         return True
 
@@ -60,10 +60,10 @@ if __name__ == "__main__":
                          "NuestraCasa",
                          "CiudadSustentable",
                          "NocheDePrimavera",
-                         "MercadosPúblicos", "MercadosPúblicos",
+                         "MercadosPúblicos", "MercadosPublicos",
                          "MexicoCity",
                          "CDMX",
-                         "AlcaldíasCDMX", "AlcaldíasCDMX",
+                         "AlcaldíasCDMX", "AlcaldiasCDMX",
                          "Fotocívicas", "Fotocivicas",
                          "SustituciónTaxi", "SustitucionTaxi"
                          ]
