@@ -19,7 +19,7 @@ java -jar build/libs/transformation-1.0-SNAPSHOT-all.jar \
   --region=us-east1 \
   --tempLocation=gs://gov-cdmx-twitter-sentiment/temp/ \
   --stagingLocation=gs://gov-cdmx-twitter-sentiment/jars/ \
-  --filesToStage=build/libs/transformation-1.0-SNAPSHOT-all.jar \
+  --filesToStage=build/libs/transformation-1.0-all.jar \
   --maxNumWorkers=2 \
   --numWorkers=1
 ```
