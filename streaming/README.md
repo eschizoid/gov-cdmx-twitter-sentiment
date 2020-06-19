@@ -12,15 +12,7 @@ ACCESS_TOKEN
 ACCESS_SECRET
 ```
 
-### Running Beam Pipeline
+### Running Tweets Pipeline
 ```
-java -jar build/libs/transformation-1.0-SNAPSHOT-all.jar \
-  --project=gov-cdmx-twitter-sentiment \
-  --runner=DataflowRunner \
-  --streaming=true \
-  --region=us-east1 \
-  --tempLocation=gs://gov-cdmx-twitter-sentiment/temp/ \
-  --stagingLocation=gs://gov-cdmx-twitter-sentiment/jars/ \
-  --maxNumWorkers=2 \
-  --numWorkers=1
+python3 twitter-to-pubsub.py
 ```

@@ -12,7 +12,7 @@ GOOGLE_APPLICATION_CREDENTIALS
 
 ### Running Beam Pipeline
 ```
-java -jar build/libs/transformation-1.0-SNAPSHOT-all.jar \
+java -jar build/libs/transformation-1.0-all.jar \
   --project=gov-cdmx-twitter-sentiment \
   --runner=DataflowRunner \
   --streaming=true \
