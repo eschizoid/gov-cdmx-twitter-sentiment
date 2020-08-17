@@ -4,7 +4,7 @@ steps:
 
   - name: gcr.io/cloud-builders/gcloud
     args: ['app', 'deploy', '--version=tweets']
-    dir: 'twitter-to-pubsub'
+    dir: 'streaming'
 
   - name: gcr.io/cloud-builders/gradle
     args: ['build', 'run']

@@ -6,10 +6,10 @@ The purpose of this project is to stream tweets using Twitter Streaming API and 
 
 ### Required Env variables
 ```
+ACCESS_SECRET
+ACCESS_TOKEN
 CONSUMER_KEY
 CONSUMER_SECRET
-ACCESS_TOKEN
-ACCESS_SECRET
 ```
 
 ### Running Tweets Pipeline
