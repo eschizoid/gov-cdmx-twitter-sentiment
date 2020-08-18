@@ -6,7 +6,7 @@ Twitter -> App Engine Flex -> PubSub -> DataFlow -> BigQuery -> NLP API
 ![GitHub Logo](images/twitter_sentiment_analysis.png)
 
 ## Prerequisites
- - A PubSube topic
+ - A PubSub topic
  - A BigQuery Dataset
  - A GCS bucket called `gov-cdmx-twitter-sentiment`
 
