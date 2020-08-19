@@ -2,7 +2,7 @@ plugins {
     id("cz.alenkacz.gradle.scalafmt") version "1.8.0"
     id("com.github.maiflai.scalatest") version "0.25"
     id("com.github.johnrengelman.shadow") version "5.0.0"
-    kotlin("jvm") version "1.3.72"
+    kotlin("jvm") version "1.4.0"
 }
 
 allprojects {
@@ -11,9 +11,9 @@ allprojects {
     }
 }
 
-val BeamVersion = "2.22.0"
+val BeamVersion = "2.23.0"
 val Log4jVersion = "2.13.3"
-val ScalaVersion = "2.13.2"
+val ScalaVersion = "2.13.3"
 
 subprojects {
     apply(plugin = "cz.alenkacz.gradle.scalafmt")
